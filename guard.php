@@ -6,7 +6,6 @@ $cyan = "\e[96m";
 $magenta = "\e[35m";
 $hijau = "\e[92m";
 $merah = "\e[91m";
-require_once('fb.php');
 echo "$cyan + //////////////////////////////+\n";
 echo "$cyan ___           _     _
 |_ _|_ __  ___(_) __| | ___
